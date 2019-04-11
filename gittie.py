@@ -17,3 +17,7 @@ def add(a, b):
 
 def multiply(a, b):
     return a * b
+
+
+def shout():
+    print("HELLO WOOOORLD!!!")
